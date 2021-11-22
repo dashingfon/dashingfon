@@ -1,8 +1,10 @@
-- 👋 Hi, I’m @dashingfon
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collabor ate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m Mfon Stephen Nwa
+- 👀 I’m a student, developer and a data analyst
+- 🌱 I’m currently learning everything 🤣
+- 💞️ I’m looking to collaborate on exiting projects
+- 📫 How to reach me, mfonnwa@gmail.com
+
+
 
 <!---
 dashingfon/dashingfon is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
