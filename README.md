@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Mfon Stephen Nwa
-- 👀 I’m a student and blockchain software developer
+- 👀 I’m a Software Engineer and Blockchain Developer
 - 🌱 I’m currently learning everything 
 - 💞️ I’m looking to collaborate on exiting projects
 - 📫 How to reach me, mfonnwa@gmail.com
