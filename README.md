@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning everything 
 - 💞️ I’m looking to collaborate on exiting projects
 - 📫 How to reach me, mfonnwa@gmail.com
+- 🖥️ portfolio: https://dashingfon.github.io
 
 # Tools and languages
 
