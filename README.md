@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Mfon Stephen Nwa
+- 👋 Hi, I’m Fondevs
 - 👀 I’m a Software Engineer and Blockchain Developer
 - 🌱 I’m currently learning everything 
 - 💞️ I’m looking to collaborate on exiting projects
