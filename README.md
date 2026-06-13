@@ -1,8 +1,5 @@
-- 👋 Hi, I’m Fondevs
-- 👀 I’m a Software Engineer and Blockchain Developer
-- 🌱 I’m currently learning everything 
-- 💞️ I’m looking to collaborate on exiting projects
-- 🖥️ portfolio: https://dashingfon.github.io
+👋 Hi, I’m Fondevs, 👀 I’m a Software Engineer and Blockchain Security Researcher, 💞️ I’m looking to collaborate on exciting projects.
+🖥️ portfolio: https://dashingfon.github.io
 
 # Tools and languages
 
