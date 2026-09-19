@@ -1,4 +1,4 @@
-👋 Hi, I’m **Fondevs.** 👀 I’m a Software Engineer and Blockchain Security Researcher. ✨ I’m looking to collaborate on exciting projects.
+👋 Hi, I’m **Fondevs.** 👀 I’m a Software Engineer and Blockchain Security Researcher.
 
 ## Languages
 
